@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include tree_allometry/data *.csv
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
